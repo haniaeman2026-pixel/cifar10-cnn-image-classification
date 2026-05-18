@@ -26,8 +26,8 @@ Dataset
 CIFAR-10 dataset containing 60,000 RGB images across 10 different classes.
 
 Model Performance
-
 Test Accuracy: ~77%
+
 Improved model performance using deep learning optimization techniques
 Project Workflow
 Load CIFAR-10 Dataset
@@ -37,6 +37,7 @@ Build CNN Architecture
 Train Model
 Evaluate Performance
 Visualize Accuracy Graphs
+
 Author
 
 Hania Eman 
